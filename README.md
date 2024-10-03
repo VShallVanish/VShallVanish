@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @VShallVanish
 - 👀 I’m interested in Virtual Reality!
 - 🌱 I’m currently learning Computer Science at UIC
-- 📫 How to reach me: Discord: @VShallVanish
+
+Discord: @VShallVanish
+LinkedIn: linkedin.com/in/vanshmattraa/
 
 <!---
 VShallVanish/VShallVanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
